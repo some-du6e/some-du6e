@@ -1,4 +1,5 @@
-### Hi there 👋
+### hello
+i make dumb prs and stuff idk
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=some-du6e)](https://github.com/ryo-ma/github-profile-trophy)
